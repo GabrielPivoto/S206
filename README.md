@@ -1,2 +1,2 @@
 # S206
-Repositório da disciplina S206
+Repositório da disciplina Qualidade de Software
